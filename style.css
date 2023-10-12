@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+   
+    background: linear-gradient(to right, #e488bd, #e488bd);
+} 
+
+.logo {
+    height: 400px;
+    width: 900px;
+    margin-top: 80px;
+    margin-left: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.caixa-menor {
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    color: #0f130d;
+    text-align: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+h1:hover {
+    color: beige;
+    transition: 0.5s;
+}
+
+.patrulha {
+    width: 262px;
+    margin-right: 60px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 80px;
+}
+
+.poderoso {
+    width: 245px;
+    margin-right: 60px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.animes {
+    width: 250px;
+    margin-right:60px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.mouse {
+    width: 262px;
+    margin-right: 60px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+h2 {
+    color: #1d1517;
+    font-size: 30px;
+    text-align: center;
+     margin-top: 40px;
+     margin-bottom: 40px;
+    cursor: pointer;
+}
+
+h2:hover {
+    color: white;
+    transition: 0.5s;
+}
+
+.aniversario {
+    width: 260px;
+    margin-right: 50px;
+    margin-left: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.arco-iris {
+    width: 250px;
+    margin-right: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.decoracion {
+    width: 250px;
+    margin-right: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+ .rose {
+    width: 250px;
+    margin-right: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+ }
+
+.caixa-media {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #e488bd;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer h4 {
+    color: rgb(66, 47, 47);
+    font-size: 35px;
+    
+  
+}
+
+footer h4:hover {
+    cursor: pointer;
+    transform: scale(1.5);
+    transition: 0.5s;
+}
+
+footer p {
+    color: #a9d8df;
+    font-size: 22px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+
+.social {
+    display: flex;
+    gap: 20px;
+}
+
+.social img {
+    height: 40px;
+    border-radius: 40px;
+}
+
+.social a { 
+    background-color: #e488bd;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.social a:hover {
+    transform: scale(1.3);
+    transition: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
